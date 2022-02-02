@@ -20,4 +20,3 @@
 - Front End: React.js & Material UI 
 - Back End: Express.js & Node.js
 - Database: MongoDB (NoSQL)
-- Architectural Pattern: REST 
