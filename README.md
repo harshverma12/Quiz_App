@@ -18,5 +18,5 @@
 
 ## Technical Details
 - Front End: React.js & Material UI 
-- Back End: Express.js & Node.js
+- Back End:  Node.js
 - Database: MongoDB (NoSQL)
